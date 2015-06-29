@@ -1,7 +1,7 @@
 #Imagefine 
 
-**Author**: _Samuel W. Craymer_  
-**Date**: _July 21, 2014_
+**Author:** _Samuel W. Craymer_  
+**Date:** _July 21, 2014_
 
 ##About Imagefine Photography
 
