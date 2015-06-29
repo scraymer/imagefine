@@ -1,0 +1,15 @@
+body {
+	margin-top: 70px;
+}
+
+.navbar-brand strong {
+	color: #570000;	
+}
+
+a {
+	color: #570000;
+}
+
+a:hover, a:focus {
+	color: #570000;
+}

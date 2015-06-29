@@ -1,0 +1,55 @@
+body {
+	margin-top: 50px !important;
+}
+
+.container-carousel {
+	padding-left: 0;
+	padding-right: 0;
+	position: absolute;
+	top: 51px;
+	left: 0;
+	bottom: 0;
+	right: 0;
+}
+
+.carousel, .carousel .carousel-inner, .carousel .carousel-inner .item {
+	height: 100%;
+}
+
+.carousel .carousel-inner .item {
+	
+}
+
+.carousel .carousel-inner .item img {
+  
+	position: absolute;
+	top: -9999px;
+	bottom: -9999px;
+	left: -9999px;
+	right: -9999px;
+	margin: auto;
+	height: 100%;
+	
+	max-width: none;
+	min-width: none;
+	width: auto;
+  
+	/*width: auto !important;
+	max-width: none;
+	min-width: none;
+	height: 100%;
+	margin: 0 auto;*/
+
+	/*max-width: none;
+	min-width: 100%;
+	width: 100%;
+	height: auto;
+	min-height: none;
+	max-width: none;
+	margin: 0 auto;*/
+}
+
+.container-carousel a.carousel-control:hover, 
+.container-carousel a.carousel-control:focus {
+	color: #570000;
+}

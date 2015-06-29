@@ -1,0 +1,14 @@
+body {
+	margin-top: 50px !important;
+}
+
+.container-pricing {
+	padding-left: 0;
+	padding-right: 0;
+	
+	position: absolute;
+	top: 51px;
+	left: 0;
+	bottom: 5px;
+	right: 0;
+}
